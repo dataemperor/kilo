@@ -1,0 +1,19 @@
+#+title: Development Plan
+#+description: I'm going to plan out my project in this document, write random stuff related to it, etc
+
+* Contents
+** DONE Setup <2025-08-06 Wed>
+** TODO Entering raw mode
+DEADLINE: <2025-08-07 Thu>
+** TODO Raw input and output
+DEADLINE: <2025-08-08 Fri>
+** TODO A text viewer
+DEADLINE: <2025-08-09 Sat>
+** TODO A text editor
+DEADLINE: <2025-08-10 Sun>
+** TODO Search
+DEADLINE: <2025-08-11 Mon>
+** TODO Syntax highlighting
+DEADLINE: <2025-08-12 Tue>
+** TODO Appendices
+DEADLINE: <2025-08-13 Wed>
