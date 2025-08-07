@@ -5,6 +5,7 @@
 ** DONE Setup <2025-08-06 Wed>
 ** TODO Entering raw mode
 DEADLINE: <2025-08-07 Thu>
+Disabling raw mode seems pretty lengthy, I don't want to just copy paste the code in the tutorial, I want to get some understanding of it, so I'm not sure if I'll be able to finish it before the deadline or not!
 ** TODO Raw input and output
 DEADLINE: <2025-08-08 Fri>
 ** TODO A text viewer
